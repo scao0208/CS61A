@@ -1,0 +1,5 @@
+'composite_identity-correct', (0, 70)
+'multiple-correct', (512, 70)
+'cycle-correct', (1024, 70)
+'composer-correct', (1536, 70)
+'count_cond-correct', (2048, 70)

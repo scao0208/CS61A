@@ -1,0 +1,3 @@
+'hailstone-correct', (0, 70)
+'merge-correct', (512, 70)
+'perms-correct', (1024, 70)

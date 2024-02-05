@@ -1,0 +1,5 @@
+'my_map-correct', (0, 70)
+'my_filter-correct', (512, 70)
+'my_reduce-correct', (1024, 70)
+'merge-correct', (1536, 70)
+'count_palindromes-correct', (2048, 70)
